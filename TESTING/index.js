@@ -1,4 +1,5 @@
 // 
+console.log("Check whether you qualified or not")
 
 const test_1 = 30
 const test_2 = 50
